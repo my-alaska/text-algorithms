@@ -4,4 +4,4 @@ This directory contains code implementation for creating a trie structure(trie.i
 
 Mentioned structures are data structures used for transforming a text for easier substring search
 
-I'll most probably implement ukonnen's algorithm here soon
+The [ukkonen.ipynb](https://github.com/my-alaska/text-algorithms/blob/main/suffix-tree/ukkonen.ipynb) file contains my implementation of ukkonen's algorithm for linear suffix tree building
