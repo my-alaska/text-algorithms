@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.txt
+*.zip
+*.tsv
+*.png
+.idea
