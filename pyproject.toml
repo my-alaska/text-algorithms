@@ -1,0 +1,9 @@
+[project]
+name = "text-algorithms"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "graphviz>=0.20.3",
+    "notebook>=7.3.3",
+]
